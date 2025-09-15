@@ -1,4 +1,4 @@
-name: Main BigCorp workflow
+name: Main CorShop workflow
 
 on:
   push:
